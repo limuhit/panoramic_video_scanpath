@@ -1,0 +1,6 @@
+numpy>=1.23,<2.0
+opencv-python>=4.8
+imageio>=2.30
+imageio-ffmpeg>=0.4
+matplotlib>=3.7
+tqdm>=4.66

@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Install PyTorch with the CUDA version that matches your system before
+# installing this package. For DALI, choose the package matching your CUDA
+# toolkit, for example:
+#   pip install nvidia-dali-cuda120
